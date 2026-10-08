@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(201, 195, 195);
+    margin:0px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#i1{
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+    
+}
+
+#i2{
+    width: 300px;
+}
+
+
+.p1{
+    display: inline
+}
